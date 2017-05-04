@@ -1,0 +1,10 @@
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\bin\Debug\EmbeddedWinowDemo.exe
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\bin\Debug\EmbeddedWinowDemo.pdb
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\bin\Debug\EmbeddedWinow.dll
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\bin\Debug\EmbeddedWinow.pdb
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\obj\Debug\EmbeddedWinowDemo.csprojResolveAssemblyReference.cache
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\obj\Debug\EmbeddedWinowDemo.Form1.resources
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\obj\Debug\EmbeddedWinowDemo.Properties.Resources.resources
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\obj\Debug\EmbeddedWinowDemo.csproj.GenerateResource.Cache
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\obj\Debug\EmbeddedWinowDemo.exe
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\EmbeddedWinowDemo\obj\Debug\EmbeddedWinowDemo.pdb

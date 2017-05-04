@@ -1,0 +1,7 @@
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\WindowChild\bin\Debug\WindowChild.exe
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\WindowChild\bin\Debug\WindowChild.pdb
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\WindowChild\obj\Debug\WindowChild.Form1.resources
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\WindowChild\obj\Debug\WindowChild.Properties.Resources.resources
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\WindowChild\obj\Debug\WindowChild.csproj.GenerateResource.Cache
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\WindowChild\obj\Debug\WindowChild.exe
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\EmbeddedWinow\WindowChild\obj\Debug\WindowChild.pdb
